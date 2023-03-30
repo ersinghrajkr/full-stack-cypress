@@ -1,0 +1,27 @@
+{
+  "name": "full-stack-cypress",
+  "version": "1.0.0",
+  "description": "Desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key c2e5d0e8-f7a3-42a0-88b8-ef68199592d8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersinghrajkr/full-stack-cypress.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Cypress.io",
+    "Cucumber"
+  ],
+  "author": "Raj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersinghrajkr/full-stack-cypress/issues"
+  },
+  "homepage": "https://github.com/ersinghrajkr/full-stack-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
